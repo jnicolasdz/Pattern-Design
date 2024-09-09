@@ -1,12 +1,11 @@
-# Pattern-Design
-On this repo I'll uploading sum up for classic pattern design with the next structure:
+# Patrones de Diseño 
 
-- Name
-- Problem situation / where do I have to use it?
-- Purpose
-- Definition
-- Good and bad application
+En este repositorio estare subiendo un resumen diseñado para todo aquel que empieza a conocer los modelos de programacion. En cada entrada solo se espera un conocimiento previo en fundamentos en programacion orientada a objetos y Diagramas UML.
+Cada patron explicado en este repositorio se estructura: 
+- Nombre
+- Proposito
+- Problema
+- Definicion
+- Aplicacion
 - Conclusion
-- General class diagram UML
-- Java code sample
-- Sample UML diagram
+
